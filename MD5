@@ -1,0 +1,15 @@
+89b9d1bdf37252abbd30e2552aca4bb3 *DESCRIPTION
+c3f0695d2a6511cac1e373ce4d8b2b39 *NAMESPACE
+c647ae528c3a1ac3d13b7d57c78ccac6 *NEWS.md
+2b008b1ccc7db3dab9e81e297fe00919 *R/avgPseudo.R
+299344d1e73ac4f129d52f814b90a689 *R/dataVill.R
+326d538c137018737606604dd5781f89 *build/vignette.rds
+cf323a2af8d8286f71c67e089949675a *data/dataVill.rda
+143a00251dd8825be545848367ae7fb1 *inst/doc/sae_AvgPseudo.R
+9b671f72fd1c57b31bad9d27574e7ad9 *inst/doc/sae_AvgPseudo.Rmd
+a805bf0e93ce34276103d2eed90ff5da *inst/doc/sae_AvgPseudo.html
+4c257540f159b81b893accbf6f50eb6d *man/avgPseudo.Rd
+6adbcf5269ed78f9c1ef84085fd9ffbf *man/dataVill.Rd
+94d33f895a608c31d2a47a9da31188e0 *tests/testthat.R
+d41d8cd98f00b204e9800998ecf8427e *tests/testthat/test.R
+9b671f72fd1c57b31bad9d27574e7ad9 *vignettes/sae_AvgPseudo.Rmd
